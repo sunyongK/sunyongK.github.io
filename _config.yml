@@ -16,7 +16,7 @@ facebook:
   publisher: 
 
 sass:
-    style: 
+    style: compressed
 
 # Build settings
 markdown: kramdown
